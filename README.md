@@ -12,7 +12,7 @@
 
 
 ## Dataset 
-We collect program data, such as online courses, webinars, and events, from third-party applications/websites that match our projects. We process the data ourselves to generate datasets that can be used for recommendation models. For the datasets you can see [here](https://docs.google.com/spreadsheets/d/1QbMJq1l0bIxbWolGIwkln2lBhMNqAF1RCxuKuXTo6n0/edit?usp=sharing).
+We collect program data, such as online courses, webinars, and events (currently still focus on online courses) from third-party applications/websites that match our projects. We process the data ourselves to generate datasets that can be used for recommendation models. For the datasets you can see [here](https://docs.google.com/spreadsheets/d/1QbMJq1l0bIxbWolGIwkln2lBhMNqAF1RCxuKuXTo6n0/edit?usp=sharing).
 
 
 ## Reference
